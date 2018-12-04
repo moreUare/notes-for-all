@@ -5,3 +5,13 @@
 
 BaiduPanKey
 Passware
+
+markdown中锚的使用
+
+1.<https://github.com/SeayXu>  
+2.[文本链接](https://github.com/SeayXu "SeayXu")  
+3.[文本链接][id]  
+[id]:https://github.com/SeayXu "SeayXu"  
+
+
+![图片]()
